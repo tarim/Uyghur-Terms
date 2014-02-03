@@ -3,8 +3,19 @@ TermsInUyghurLanguage
 
 Terms in Uyghur Language
 
+Total Count:176106 terms.
+
+format:
+
+`[Term],[Classification]`
 
 
+ئۇيغۇر تىلىدىكى ئاتالغۇلار
+=========================
+
+جەمئى ئاتالغۇ:176مىڭ 106
+
+بۇ ئامبار ئاتالغۇ نامى ۋە پەن ساھەسىنى ئۆز ئىچىگە ئالىدۇ.
 
 
 Licence

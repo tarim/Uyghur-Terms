@@ -21,6 +21,7 @@ File format:
 
 بۇ ئامبار ئاتالغۇ نامى ۋە پەن ساھەسىنى ئۆز ئىچىگە ئالىدۇ.
 
+[چۈشۈرۈش](https://github.com/Uyghur-LRs/Uyghur-Terms/blob/master/Uyghur-Terms-v0.1.zip?raw=true)
 
 Licence
 -------

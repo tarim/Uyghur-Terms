@@ -2,11 +2,15 @@ Uyghur Terms
 =====================
 
 A list of Uyghur terms in more than 80 different fields such as Physics, chemistry, astronomy .etc.
-Total Count:176106 terms.
 
-format:
+v0.1 Size: 176106 terms.
 
-`[Term],[Classification]`
+File format:
+
+`[Term 1],[Classification]`  
+`[Term 2],[Classification]`  
+...  
+`[Term n],[Classification]`
 
 
 ئۇيغۇر تىلىدىكى ئاتالغۇلار

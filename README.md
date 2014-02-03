@@ -1,8 +1,7 @@
-TermsInUyghurLanguage
+Uyghur Terms
 =====================
 
-Terms in Uyghur Language
-
+A list of Uyghur terms in more than 80 different fields such as Physics, chemistry, astronomy .etc.
 Total Count:176106 terms.
 
 format:

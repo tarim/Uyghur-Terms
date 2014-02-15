@@ -8,10 +8,10 @@ v0.1
 
 File format:
 
-`[Term 1],[Classification]`  
-`[Term 2],[Classification]`  
+`[Term 1],[field name]`  
+`[Term 2],[field name]`  
 ...  
-`[Term n],[Classification]`
+`[Term n],[field name]`
 
 
 ئۇيغۇر تىلىدىكى ئاتالغۇلار
